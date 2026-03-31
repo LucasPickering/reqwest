@@ -1,6 +1,6 @@
 [package]
 name = "slumber-reqwest"
-version = "0.13.2-slumber.0"
+version = "0.13.2-slumber.1"
 description = "fork of reqwest for slumber [DO NOT USE]"
 keywords = ["http", "request", "client"]
 categories = ["web-programming::http-client", "wasm"]
