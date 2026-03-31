@@ -1,12 +1,11 @@
 [package]
-name = "reqwest"
-version = "0.13.2"
-description = "higher level HTTP client library"
+name = "slumber-reqwest"
+version = "0.13.2-slumber.0"
+description = "fork of reqwest for slumber [DO NOT USE]"
 keywords = ["http", "request", "client"]
 categories = ["web-programming::http-client", "wasm"]
-repository = "https://github.com/seanmonstar/reqwest"
-documentation = "https://docs.rs/reqwest"
-authors = ["Sean McArthur <sean@seanmonstar.com>"]
+repository = "https://github.com/LucasPickering/reqwest"
+authors = ["Sean McArthur <sean@seanmonstar.com>", "Lucas Pickering <lucas@lucaspickering.me>"]
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 edition = "2021"
